@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T12:29:52.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="8di9F5f9fHz1PCzAvH9o" version="16.5.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-09T12:33:03.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="rloku8Bf5yrokC6tfSN1" version="16.5.3" type="github" pages="6">
   <diagram id="ATqrliDHNcsMHrG0p_Ry" name="les_1_task_2">
     <mxGraphModel dx="1248" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="aipZPorrDkXsiSd6xEVI-4" value="конец" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="NfSVFCOJ5FIifaM-iMqf-1" vertex="1">
           <mxGeometry x="330" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ffscVi174xOUloiSM656-0" value="les_1_task_2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NfSVFCOJ5FIifaM-iMqf-1">
+          <mxGeometry x="330" y="10" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -90,6 +93,9 @@
         <mxCell id="WysORMlE-1B2kq4YBvIF-19" value="обрезать строку" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WysORMlE-1B2kq4YBvIF-1">
           <mxGeometry x="320" y="720" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GYxJINagVWtgkliIWloK-0" value="les_1_task_3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WysORMlE-1B2kq4YBvIF-1">
+          <mxGeometry x="330" y="50" width="90" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -125,6 +131,9 @@
         <mxCell id="75QGeUflQmmKPHZEoMKi-6" value="вывод результатов" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="75QGeUflQmmKPHZEoMKi-1">
           <mxGeometry x="350" y="400" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9y-faX6bD-EW1zUt8Olz-0" value="les_1_task_4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="75QGeUflQmmKPHZEoMKi-1">
+          <mxGeometry x="345" width="90" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -154,6 +163,9 @@
         <mxCell id="DWgxm4ATzuKId5Y3HOkl-5" value="конец" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="DWgxm4ATzuKId5Y3HOkl-1">
           <mxGeometry x="380" y="400" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="sZlaK1E4MGYp_BYf3Wjy-0" value="les_1_task_5" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="DWgxm4ATzuKId5Y3HOkl-1">
+          <mxGeometry x="380" y="10" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -174,12 +186,12 @@
         <mxCell id="ugO-qh9Vn2hDEu9XmjPe-3" value="Ввод года&lt;br&gt;от пользователя" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="ugO-qh9Vn2hDEu9XmjPe-1">
           <mxGeometry x="337" y="180" width="154" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ugO-qh9Vn2hDEu9XmjPe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ugO-qh9Vn2hDEu9XmjPe-1" source="ugO-qh9Vn2hDEu9XmjPe-4">
+        <mxCell id="ugO-qh9Vn2hDEu9XmjPe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ugO-qh9Vn2hDEu9XmjPe-1" source="ugO-qh9Vn2hDEu9XmjPe-4" target="ugO-qh9Vn2hDEu9XmjPe-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="630" as="targetPoint" />
             <Array as="points">
               <mxPoint x="593" y="540" />
-              <mxPoint x="414" y="540" />
+              <mxPoint x="422" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -217,6 +229,9 @@
         </mxCell>
         <mxCell id="ugO-qh9Vn2hDEu9XmjPe-11" value="год не високосный" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="ugO-qh9Vn2hDEu9XmjPe-1">
           <mxGeometry x="160" y="430" width="204" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="27tr8wISYh3lpjJnBYFv-0" value="les_1_task_7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ugO-qh9Vn2hDEu9XmjPe-1">
+          <mxGeometry x="365" y="20" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -311,6 +326,9 @@
         </mxCell>
         <mxCell id="GSHCNtK90xROe5G60mRe-15" value="ДА" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gnGxpzLkq3cIPQQQq33m-1">
           <mxGeometry x="330" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="wsuTFe1O8O-NlXw4LOpR-0" value="les_1_task_8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gnGxpzLkq3cIPQQQq33m-1">
+          <mxGeometry x="390" y="90" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
