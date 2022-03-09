@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T12:25:28.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="SnRSE-2LR1AEPeUrHauf" version="16.5.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-09T12:29:52.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="8di9F5f9fHz1PCzAvH9o" version="16.5.3" type="github" pages="6">
   <diagram id="ATqrliDHNcsMHrG0p_Ry" name="les_1_task_2">
     <mxGraphModel dx="1248" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,7 +254,7 @@
         <mxCell id="GSHCNtK90xROe5G60mRe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gnGxpzLkq3cIPQQQq33m-1" source="GSHCNtK90xROe5G60mRe-2" target="GSHCNtK90xROe5G60mRe-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GSHCNtK90xROe5G60mRe-2" value="c &amp;gt; a &amp;gt; b&lt;br&gt;and&lt;br&gt;b &amp;gt; a &amp;gt; c" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="gnGxpzLkq3cIPQQQq33m-1">
+        <mxCell id="GSHCNtK90xROe5G60mRe-2" value="c &amp;gt; a &amp;gt; b&lt;br&gt;или&lt;br&gt;b &amp;gt; a &amp;gt; c" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="gnGxpzLkq3cIPQQQq33m-1">
           <mxGeometry x="380" y="340" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GSHCNtK90xROe5G60mRe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gnGxpzLkq3cIPQQQq33m-1" source="GSHCNtK90xROe5G60mRe-3" target="GSHCNtK90xROe5G60mRe-7">
@@ -267,7 +267,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSHCNtK90xROe5G60mRe-3" value="c &amp;gt; b &amp;gt; a&lt;br&gt;and&lt;br&gt;a &amp;gt; b &amp;gt; c" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="gnGxpzLkq3cIPQQQq33m-1">
+        <mxCell id="GSHCNtK90xROe5G60mRe-3" value="c &amp;gt; b &amp;gt; a&lt;br&gt;или&lt;br&gt;a &amp;gt; b &amp;gt; c" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="gnGxpzLkq3cIPQQQq33m-1">
           <mxGeometry x="220" y="470" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GSHCNtK90xROe5G60mRe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gnGxpzLkq3cIPQQQq33m-1" source="GSHCNtK90xROe5G60mRe-6" target="GSHCNtK90xROe5G60mRe-0">
