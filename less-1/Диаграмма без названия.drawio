@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T20:24:14.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="9PDUDmJG55KPfAwlCq16" version="16.6.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-09T11:01:59.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="dnT9D1CDr59KuQR2GHpu" version="16.5.3" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="les_1_task_1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1248" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="Kxkucw-WnGFXAB1GqDsA-0" value="начало" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Kxkucw-WnGFXAB1GqDsA-0" value="начало" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="364" y="70" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Kxkucw-WnGFXAB1GqDsA-1" value="a = 5&lt;br&gt;b = 6" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Kxkucw-WnGFXAB1GqDsA-1" value="a = 5&lt;br&gt;b = 6" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="364" y="210" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -44,6 +44,100 @@
         </mxCell>
         <mxCell id="aipZPorrDkXsiSd6xEVI-4" value="конец" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="NfSVFCOJ5FIifaM-iMqf-1">
           <mxGeometry x="330" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lTZQkFiIbegKwcdtTHz3" name="les_1_task_3">
+    <mxGraphModel dx="1248" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WysORMlE-1B2kq4YBvIF-0" />
+        <mxCell id="WysORMlE-1B2kq4YBvIF-1" parent="WysORMlE-1B2kq4YBvIF-0" />
+        <mxCell id="WysORMlE-1B2kq4YBvIF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WysORMlE-1B2kq4YBvIF-1" source="WysORMlE-1B2kq4YBvIF-2" target="WysORMlE-1B2kq4YBvIF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WysORMlE-1B2kq4YBvIF-2" value="Начало" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="WysORMlE-1B2kq4YBvIF-1">
+          <mxGeometry x="320" y="100" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WysORMlE-1B2kq4YBvIF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WysORMlE-1B2kq4YBvIF-1" source="WysORMlE-1B2kq4YBvIF-4" target="WysORMlE-1B2kq4YBvIF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WysORMlE-1B2kq4YBvIF-4" value="Введите границы случайного&lt;br&gt;целого числа от &amp;gt;&amp;gt;&amp;gt;&lt;br&gt;до &amp;gt;&amp;gt;&amp;gt;&amp;nbsp;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WysORMlE-1B2kq4YBvIF-1">
+          <mxGeometry x="230" y="230" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WysORMlE-1B2kq4YBvIF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WysORMlE-1B2kq4YBvIF-1" source="WysORMlE-1B2kq4YBvIF-6" target="WysORMlE-1B2kq4YBvIF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WysORMlE-1B2kq4YBvIF-6" value="вывод случайного числа" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WysORMlE-1B2kq4YBvIF-1">
+          <mxGeometry x="320" y="320" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WysORMlE-1B2kq4YBvIF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WysORMlE-1B2kq4YBvIF-1" source="WysORMlE-1B2kq4YBvIF-7" target="WysORMlE-1B2kq4YBvIF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WysORMlE-1B2kq4YBvIF-7" value="Введите границы случайного&lt;br&gt;вещественного числа от &amp;gt;&amp;gt;&amp;gt;&lt;br&gt;до &amp;gt;&amp;gt;&amp;gt;&amp;nbsp;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WysORMlE-1B2kq4YBvIF-1">
+          <mxGeometry x="230" y="420" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WysORMlE-1B2kq4YBvIF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WysORMlE-1B2kq4YBvIF-1" source="WysORMlE-1B2kq4YBvIF-8" target="WysORMlE-1B2kq4YBvIF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WysORMlE-1B2kq4YBvIF-8" value="вывод случайного числа" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WysORMlE-1B2kq4YBvIF-1">
+          <mxGeometry x="320" y="525" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WysORMlE-1B2kq4YBvIF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WysORMlE-1B2kq4YBvIF-1" source="WysORMlE-1B2kq4YBvIF-9" target="WysORMlE-1B2kq4YBvIF-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WysORMlE-1B2kq4YBvIF-9" value="Введите случайный&lt;br&gt;символ от &amp;gt;&amp;gt;&amp;gt;&lt;br&gt;до &amp;gt;&amp;gt;&amp;gt;&amp;nbsp;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WysORMlE-1B2kq4YBvIF-1">
+          <mxGeometry x="230" y="630" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WysORMlE-1B2kq4YBvIF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WysORMlE-1B2kq4YBvIF-1" source="WysORMlE-1B2kq4YBvIF-10" target="WysORMlE-1B2kq4YBvIF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WysORMlE-1B2kq4YBvIF-10" value="вывод случайного символа" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WysORMlE-1B2kq4YBvIF-1">
+          <mxGeometry x="320" y="830" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WysORMlE-1B2kq4YBvIF-11" value="конец" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="WysORMlE-1B2kq4YBvIF-1">
+          <mxGeometry x="320" y="930" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WysORMlE-1B2kq4YBvIF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WysORMlE-1B2kq4YBvIF-1" source="WysORMlE-1B2kq4YBvIF-19" target="WysORMlE-1B2kq4YBvIF-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WysORMlE-1B2kq4YBvIF-19" value="обрезать строку" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WysORMlE-1B2kq4YBvIF-1">
+          <mxGeometry x="320" y="720" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="88QXnidbNnlKX1HfHY2Q" name="les_1_task_4">
+    <mxGraphModel dx="1248" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="75QGeUflQmmKPHZEoMKi-0" />
+        <mxCell id="75QGeUflQmmKPHZEoMKi-1" parent="75QGeUflQmmKPHZEoMKi-0" />
+        <mxCell id="75QGeUflQmmKPHZEoMKi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="75QGeUflQmmKPHZEoMKi-1" source="75QGeUflQmmKPHZEoMKi-2" target="75QGeUflQmmKPHZEoMKi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="75QGeUflQmmKPHZEoMKi-2" value="начало" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="75QGeUflQmmKPHZEoMKi-1">
+          <mxGeometry x="350" y="40" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="75QGeUflQmmKPHZEoMKi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="75QGeUflQmmKPHZEoMKi-1" source="75QGeUflQmmKPHZEoMKi-3" target="75QGeUflQmmKPHZEoMKi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="75QGeUflQmmKPHZEoMKi-3" value="ввод двух букв от пользователя" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="75QGeUflQmmKPHZEoMKi-1">
+          <mxGeometry x="320" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="75QGeUflQmmKPHZEoMKi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="75QGeUflQmmKPHZEoMKi-1" source="75QGeUflQmmKPHZEoMKi-4" target="75QGeUflQmmKPHZEoMKi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="75QGeUflQmmKPHZEoMKi-4" value="поиск букв в&amp;nbsp; строке&lt;br&gt;вычисление длины обрезанной строки" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="75QGeUflQmmKPHZEoMKi-1">
+          <mxGeometry x="280" y="270" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="75QGeUflQmmKPHZEoMKi-5" value="конец" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="75QGeUflQmmKPHZEoMKi-1">
+          <mxGeometry x="350" y="500" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="75QGeUflQmmKPHZEoMKi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="75QGeUflQmmKPHZEoMKi-1" source="75QGeUflQmmKPHZEoMKi-6" target="75QGeUflQmmKPHZEoMKi-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="75QGeUflQmmKPHZEoMKi-6" value="вывод результатов" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="75QGeUflQmmKPHZEoMKi-1">
+          <mxGeometry x="350" y="400" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
