@@ -5,3 +5,21 @@
 # Для каждого из трех случаев пользователь задает свои границы диапазона.
 # Например, если надо получить случайный символ от 'a' до 'f', то вводятся эти символы.
 # Программа должна вывести на экран любой символ алфавита от 'a' до 'f' включительно.
+
+import random
+
+a1 = int(input("Введите границы случайного челого числа от >>> "))
+b1 = int(input("до >>> "))
+print(random.randint(a1, b1))
+
+a2 = float(input("Введите границы случайного вещественного числа от >>> "))
+b2 = float(input("до >>> "))
+print(random.uniform(a2, b2))
+
+a3_str = str.lower(input("Введите случайный от >>> "))
+b3_str = str.lower(input("до >>> "))
+letters = "abcdefghijklmnopqrstuvwxyz"
+a3 = letters.find(a3_str)
+b3 = letters.find(b3_str) + 1
+letters = letters[a3:b3]
+print(random.choice(letters))
